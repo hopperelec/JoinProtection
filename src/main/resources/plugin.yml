@@ -1,0 +1,8 @@
+name: JoinProtection
+version: ${project.version}
+main: uk.co.hopperelec.mc.joinprotection.Main
+api-version: 1.16
+prefix: JoinProtection
+authors: [ HopperElecYT ]
+description: Made for Demonetized SMP to make sure people can only play when a moderator is online
+website: hopperelec.co.uk
